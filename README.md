@@ -116,11 +116,6 @@ cd veritas
 docker-compose up -d
 ```
 
-3. **Acesse a aplicação:**
-   - Frontend: http://localhost:3000
-   - Backend API: http://localhost:8000
-   - Documentação API: http://localhost:8000/docs
-
 ### Opção 2: Instalação Manual
 
 #### Backend
@@ -155,9 +150,6 @@ npm install
 # Executar em modo desenvolvimento
 npm run dev
 ```
-
-Acesse http://localhost:3000
-
 ---
 
 ## 🎮 Como Usar
@@ -275,7 +267,7 @@ Analisa um texto e retorna métricas de confiabilidade.
 
 ### Documentação Completa
 
-Acesse http://localhost:8000/docs para documentação interativa (Swagger UI).
+Acesse http://localhost:xxxx/docs para documentação interativa (Swagger UI).
 
 ---
 
